@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CineMasterFront/static/css/main.b98de0fb.css",
+    "main.js": "/CineMasterFront/static/js/main.a36995c5.js",
+    "static/js/453.bdab493b.chunk.js": "/CineMasterFront/static/js/453.bdab493b.chunk.js",
+    "index.html": "/CineMasterFront/index.html",
+    "main.b98de0fb.css.map": "/CineMasterFront/static/css/main.b98de0fb.css.map",
+    "main.a36995c5.js.map": "/CineMasterFront/static/js/main.a36995c5.js.map",
+    "453.bdab493b.chunk.js.map": "/CineMasterFront/static/js/453.bdab493b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b98de0fb.css",
+    "static/js/main.a36995c5.js"
+  ]
+}
