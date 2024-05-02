@@ -6,3 +6,4 @@ Para iniciar el front
 4. Al inicio te encontraras con una sola página donde equivale las Reservas del Cine
    Es un prototipo realizado en menos de 24 horas, falta mejorar e implementarlo más a detalle
    
+-Ignorar el GH-PAGES
