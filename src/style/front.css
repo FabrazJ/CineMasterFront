@@ -1,0 +1,21 @@
+.seat {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #ccc;
+    margin: 5px;
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+  }
+  
+  .seat.selected {
+    background-color: #00bcd4;
+    color: white;
+  }
+  
+  .cinema-room {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
